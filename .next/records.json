@@ -1,0 +1,48 @@
+{
+  "modules": {
+    "byIdentifier": {
+      "multi next-client-pages-loader?page=%2F_app&absolutePagePath=next%2Fdist%2Fpages%2F_app! node_modules/next/dist/client/router.js": 0
+    },
+    "usedIds": {
+      "0": 0
+    }
+  },
+  "chunks": {
+    "byName": {
+      "commons": 0,
+      "static/runtime/webpack.js": 1,
+      "framework": 2,
+      "b92993bc9ba36ba2ddda678f7dbfffeb3a6415ca": 3,
+      "static/OPRRptraClkp0ynmf9VvG/pages/_app.js": 4,
+      "static/OPRRptraClkp0ynmf9VvG/pages/_error.js": 5,
+      "static/OPRRptraClkp0ynmf9VvG/pages/about.js": 6,
+      "static/OPRRptraClkp0ynmf9VvG/pages/index.js": 7,
+      "static/OPRRptraClkp0ynmf9VvG/pages/post.js": 8,
+      "static/OPRRptraClkp0ynmf9VvG/pages/post/[id].js": 9,
+      "static/runtime/main.js": 10,
+      "static/runtime/polyfills.js": 11,
+      "d9139088c9701b317168ea264390dc8b2c55fae6": 12,
+      "static/VWo6vGi7Xu8_BF0m1zV-s/pages/_app.js": 13,
+      "static/VWo6vGi7Xu8_BF0m1zV-s/pages/_error.js": 14,
+      "static/VWo6vGi7Xu8_BF0m1zV-s/pages/about.js": 15,
+      "static/VWo6vGi7Xu8_BF0m1zV-s/pages/index.js": 16,
+      "static/VWo6vGi7Xu8_BF0m1zV-s/pages/post.js": 17,
+      "static/VWo6vGi7Xu8_BF0m1zV-s/pages/post/[id].js": 18
+    },
+    "bySource": {},
+    "usedIds": [
+      0,
+      1,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      2
+    ]
+  }
+}

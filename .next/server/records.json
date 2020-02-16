@@ -1,0 +1,59 @@
+{
+  "modules": {
+    "byIdentifier": {
+      "multi private-next-pages/about.js": 0,
+      "multi private-next-pages/api/randomQuote.js": 1,
+      "multi private-next-pages/index.js": 2,
+      "multi private-next-pages/post.js": 3,
+      "multi private-next-pages/post/[id].js": 4,
+      "multi next/dist/pages/_app": 5,
+      "multi next/dist/pages/_error": 6,
+      "multi next/dist/pages/_document": 7
+    },
+    "usedIds": {
+      "0": 0,
+      "1": 1,
+      "2": 2,
+      "3": 3,
+      "4": 4,
+      "5": 5,
+      "6": 6,
+      "7": 7
+    }
+  },
+  "chunks": {
+    "byName": {
+      "init-server.js": 0,
+      "on-error-server.js": 1,
+      "static/OPRRptraClkp0ynmf9VvG/pages/_app.js": 2,
+      "static/OPRRptraClkp0ynmf9VvG/pages/_document.js": 3,
+      "static/OPRRptraClkp0ynmf9VvG/pages/_error.js": 4,
+      "static/OPRRptraClkp0ynmf9VvG/pages/about.js": 5,
+      "static/OPRRptraClkp0ynmf9VvG/pages/api/randomQuote.js": 6,
+      "static/OPRRptraClkp0ynmf9VvG/pages/index.js": 7,
+      "static/OPRRptraClkp0ynmf9VvG/pages/post.js": 8,
+      "static/OPRRptraClkp0ynmf9VvG/pages/post/[id].js": 9,
+      "static/VWo6vGi7Xu8_BF0m1zV-s/pages/_app.js": 10,
+      "static/VWo6vGi7Xu8_BF0m1zV-s/pages/_document.js": 11,
+      "static/VWo6vGi7Xu8_BF0m1zV-s/pages/_error.js": 12,
+      "static/VWo6vGi7Xu8_BF0m1zV-s/pages/about.js": 13,
+      "static/VWo6vGi7Xu8_BF0m1zV-s/pages/api/randomQuote.js": 14,
+      "static/VWo6vGi7Xu8_BF0m1zV-s/pages/index.js": 15,
+      "static/VWo6vGi7Xu8_BF0m1zV-s/pages/post.js": 16,
+      "static/VWo6vGi7Xu8_BF0m1zV-s/pages/post/[id].js": 17
+    },
+    "bySource": {},
+    "usedIds": [
+      0,
+      1,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17
+    ]
+  }
+}
